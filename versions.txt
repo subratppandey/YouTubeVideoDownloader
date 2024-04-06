@@ -1,4 +1,4 @@
 # The versions of Flask and pytube I am using for this project
 
 pytube==15.0.0
-Flask==1.1.2
+Flask==3.0.2
